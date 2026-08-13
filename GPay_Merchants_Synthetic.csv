@@ -1,0 +1,21 @@
+Merchant_ID,Merchant_Name,Merchant_Category,Merchant_Size,State,City
+M001,Reliance Retail,Food,Large,Punjab,Bengaluru
+M002,DMart,Travel,Medium,Delhi,Hyderabad
+M003,Swiggy,Telecom,Medium,Madhya Pradesh,Udaipur
+M004,Zomato,Healthcare,Small,Rajasthan,Kochi
+M005,Uber,Travel,Medium,Rajasthan,Udaipur
+M006,Ola,Retail,Small,Tamil Nadu,Hyderabad
+M007,Amazon,E-commerce,Small,West Bengal,Surat
+M008,Flipkart,E-commerce,Small,Tamil Nadu,Nashik
+M009,Airtel,Entertainment,Small,Karnataka,Chandigarh
+M010,Jio,Food,Large,West Bengal,Madurai
+M011,Indian Oil,Telecom,Large,Rajasthan,Kochi
+M012,HPCL,Telecom,Small,Maharashtra,Jaipur
+M013,BookMyShow,Healthcare,Medium,Kerala,Siliguri
+M014,BigBasket,Fuel,Medium,Telangana,Surat
+M015,Myntra,Entertainment,Small,Punjab,Chandigarh
+M016,Apollo Pharmacy,Retail,Medium,Gujarat,Madurai
+M017,MakeMyTrip,Entertainment,Medium,Kerala,New Delhi
+M018,IRCTC,Food,Medium,Telangana,Jodhpur
+M019,Local Grocery Store,Telecom,Medium,Telangana,Siliguri
+M020,Local Restaurant,Healthcare,Small,Gujarat,Warangal
